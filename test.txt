@@ -1,2 +1,6 @@
 enter
 wow
+
+23살
+
+retry
